@@ -2,8 +2,6 @@
 
 This web app: **Is a forum that allows users to post their keyboard builds. Posts have the option to like, comment, and edit the post.**
 
-Time spent: **13** hours spent in total
-
 - [ x] **A create form that allows the user to create posts**
 - [ x] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
 - [ x] **A home feed displaying previously created posts**
