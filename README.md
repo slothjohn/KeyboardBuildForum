@@ -28,6 +28,16 @@ https://imgur.com/gallery/VZaAGNi
 
 Practiced CRUD operations. Used a JSON to store comments for each post. Updated JSON with new comments. Update likes. Displayed comments. Implemented sort by likes button. Implemented a search for posts search bar. 
 
+https://keyboardforum.netlify.app/
+
+Currently:
+Supabse instance paused
+
+Next Steps:
+- [ ] **Allow users to add images**
+- [ ] **Create personal post page component**
+- [ ] **Styling post page**
+
 ## License
 
     Copyright [2023] [John Chen]
